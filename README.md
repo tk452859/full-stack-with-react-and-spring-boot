@@ -737,7 +737,7 @@ public class JwtTokenResponse implements Serializable {
 - What are we waiting for? Lets have some fun with *** in *** steps. We had a lot of fun creating this course for you and We are confident that you will have a lot of fun. I hope you are as excited as we are to learn more. Go ahead and enroll for the course. Or take a test drive with a free preview. See you in the course.
 
 #### Course Intro Video
-- Welcome to this course on ***. We are excited to teach you how to build awesome ***. 
+- Welcome! This course will guide you through building practical, real-world applications step-by-step, focusing on hands-on coding and industry best practices.
 - In this video, we introduce you to the different sections of the course. By the end of the video you should have a clear idea of how to make the best use of the course.
 - We have organized this course into 6 different sections. We have designed each section to be independent of each other. That means, you have the flexibility of customizing the course based on your skills and your needs. 
 - If you have experience with Spring and Spring Boot, you can skip these sections.
